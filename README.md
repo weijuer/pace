@@ -1,7 +1,7 @@
 pace
 ====
 
-An automatic web page progress bar.
+An automatic web page progress bar.(页面顶部动态加载条)
 
 Include [pace.js](https://raw.github.com/HubSpot/pace/v1.0.2/pace.min.js) and a [theme](http://github.hubspot.com/pace/docs/welcome/) of your choice to your page and you are done!
 
